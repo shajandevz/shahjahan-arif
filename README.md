@@ -1,31 +1,196 @@
-<h1 align="center">Hi 👋, I'm Shahjahan </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-- 🔭 I’m working on **Blochchain Technologies**
+<div align="center">
 
-- 🌱  I’m diving deep into the **Blochchain**
-- 🌱 Mern Stack developer **react.js**
+```
+██████╗  █████╗ ██╗   ██╗████████╗ ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔═══██╗██║  ██║██╔══██╗██╔════╝██║  ██║
+██████╔╝███████║ ╚████╔╝    ██║   ██║   ██║███████║███████║███████╗███████║
+██╔═══╝ ██╔══██║  ╚██╔╝     ██║   ██║   ██║██╔══██║██╔══██║╚════██║██╔══██║
+██║     ██║  ██║   ██║      ██║   ╚██████╔╝██║  ██║██║  ██║███████║██║  ██║
+╚═╝     ╚═╝  ╚═╝   ╚═╝      ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahjahan-arif](https://github.com/shahjahan-arif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=⛓️+Blockchain+Engineer+%26+Architect;🚀+Full+Stack+Developer+(MERN+%2B+Next.js);💡+Founder+%40+PayToHash;🛠️+Building+the+Decentralized+Future;🔥+2+Major+MVPs+in+Progress" alt="Typing SVG" />
 
-- 📫 How to reach me **shajandevz@gmail.com**
-- 
-- ⚡ Fun fact **I think Im Funny**
-- 
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saifu_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifu_dev" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mrsaifullah52" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saifu_dev#9510" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/saifu_dev?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2&labelColor=0d1117)](https://twitter.com/saifu_dev)
+[![GitHub followers](https://img.shields.io/github/followers/shahjahan-arif?style=for-the-badge&logo=github&logoColor=white&color=00FFF7&labelColor=0d1117)](https://github.com/shahjahan-arif)
+[![Email](https://img.shields.io/badge/Email-shajandevz%40gmail.com-00FFF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shajandevz@gmail.com)
 
-- 📫 How to reach me ...
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaifullah52&layout=compact&hide=javascript,html,ejs,vue" />
+</div>
+
+---
+
+## 🧠 About Me
+
+```typescript
+const shahjahan = {
+  name: "Shahjahan Arif",
+  role: "Blockchain Engineer & Full Stack Developer",
+  company: "Paytohash (Founder & CEO)",
+  location: "Pakistan 🇵🇰",
+  
+  currentFocus: [
+    "⛓️ Building decentralized payment infrastructure",
+    "🔨 Developing 2 major product MVPs",
+    "🌐 Scaling Web3 solutions for real-world use",
+  ],
+
+  blockchain: {
+    protocols:    ["Ethereum", "Solana", "BNB Chain", "Polygon", "Arbitrum"],
+    languages:    ["Solidity", "Rust (Anchor)", "Vyper"],
+    tools:        ["Hardhat", "Foundry", "Truffle", "Ganache"],
+    standards:    ["ERC-20", "ERC-721", "ERC-1155", "ERC-4337"],
+    web3libs:     ["ethers.js", "web3.js", "wagmi", "viem", "RainbowKit"],
+    defi:         ["Uniswap", "Aave", "Chainlink Oracles", "IPFS", "The Graph"],
+  },
+
+  frontend: {
+    react:   ["React.js", "Next.js 14", "Vite", "Redux Toolkit", "React Query"],
+    vue:     ["Vue.js 3", "Nuxt.js", "Pinia", "Vite"],
+    styling: ["Tailwind CSS", "Shadcn/UI", "Framer Motion", "SASS", "Bootstrap"],
+  },
+
+  backend: {
+    runtime:    ["Node.js", "Express.js", "Nest.js"],
+    databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Supabase"],
+    cloud:      ["Firebase", "Vercel", "Heroku", "Docker"],
+    auth:       ["JWT", "NextAuth", "Web3Auth", "WalletConnect"],
+  },
+
+  mobile:     ["Flutter", "React Native", "Android (Java/Kotlin)"],
+  languages:  ["JavaScript", "TypeScript", "Solidity", "Rust", "PHP", "C++"],
+
+  funFact: "I think I'm funny... and the blockchain agrees 😄"
+};
+```
+
+---
+
+## 🏢 Paytohash — My Company
+
+<div align="center">
+
+> **Paytohash** is a blockchain-powered payments & Web3 infrastructure company.
+> We build decentralized tools, DeFi protocols, and payment gateways that bridge
+> the gap between traditional finance and the decentralized web.
+
+🔗 Currently building **2 major MVPs** — stay tuned for launch! 🚀
+
+</div>
+
+---
+
+## ⛓️ Blockchain & Web3 Stack
+
+<div align="center">
+
+| Layer | Technologies |
+|-------|-------------|
+| **Smart Contracts** | Solidity · Rust (Anchor) · Vyper |
+| **EVM Chains** | Ethereum · Polygon · BNB Chain · Arbitrum · Optimism |
+| **Non-EVM** | Solana · Near Protocol |
+| **Dev Tools** | Hardhat · Foundry · Truffle · Remix IDE |
+| **Web3 Frontend** | ethers.js · wagmi · viem · web3.js · RainbowKit |
+| **DeFi / Protocols** | Uniswap v3 · Aave · Chainlink · OpenZeppelin |
+| **Storage** | IPFS · Arweave · Filecoin |
+| **Indexing** | The Graph · Moralis |
+| **Token Standards** | ERC-20 · ERC-721 · ERC-1155 · ERC-4337 (AA) |
+
+</div>
+
+---
+
+## 🖥️ Full Stack Arsenal
+
+### ⚛️ React Ecosystem
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### 💚 Vue Ecosystem
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+
+### 🎨 Styling & UI
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🔧 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📱 Mobile & Other
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahjahan-arif&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFF7&icon_color=00FFF7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjahan-arif&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFF7"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahjahan-arif&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FFF7&ring=00FFF7&fire=FF6B35&currStreakLabel=00FFF7" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shahjahan-arif&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahjahan-arif&bg_color=0d1117&color=00FFF7&line=00FFF7&point=FF6B35&area=true&hide_border=true)](https://github.com/shahjahan-arif)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40saifu__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saifu_dev)
+[![GitHub](https://img.shields.io/badge/GitHub-shahjahan--arif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahjahan-arif)
+[![Email](https://img.shields.io/badge/Email-shajandevz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajandevz@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-saifu__dev%239510-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+⛓️ "Don't trust, verify — on-chain." ⛓️
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahjahan-arif&color=00FFF7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 [![An image of @shahjahan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shahjahan)](https://holopin.io/@shahjahan)
